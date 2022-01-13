@@ -1,0 +1,25 @@
+@media screen and (max-width: 420px) {
+    .row{
+        width: 100vw;
+    }
+ 
+    #lezioni .row>.left,
+    #lezioni .row>.right,
+    #steps .row>.left,
+    #steps .row>.central,
+    #steps .row>.right,
+    #why .row>.first,
+    #why .row>.second,
+    #why .row>.third{
+        float: none;
+    }
+    
+    img{
+        width: 110px;
+        height: 80px;
+    }
+
+    html{
+        font-size: 12px;
+    }
+}
