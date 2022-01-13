@@ -12,6 +12,7 @@
     #why .row>.second,
     #why .row>.third{
         float: none;
+        width: 100%;
     }
     
     img{
