@@ -20,7 +20,6 @@
     #why .row>.third{
         float: none;
         width: 100%;
-        margin: 0;
         padding: 0;
         margin-bottom: 10px;
     }
@@ -30,8 +29,10 @@
     }
 
     img{
-        width: 110px;
+        width: 80px;
         height: 80px;
+        object-fit: contain;
+        object-position: center;
     }
 
     html{
