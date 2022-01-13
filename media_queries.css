@@ -3,11 +3,11 @@
         margin: 0;
         padding: 0;
     }
-    
+
     .row{
         width: 100%;
         margin: 0;
-        padding: 8px 0;
+        padding: 5px 0;
     }
 
     #lezioni .row>.left,
@@ -22,9 +22,13 @@
         width: 100%;
         margin: 0;
         padding: 0;
+        margin-bottom: 10px;
     }
 
-    
+    .row h1{
+        margin-bottom: 10px;
+    }
+
     img{
         width: 110px;
         height: 80px;
