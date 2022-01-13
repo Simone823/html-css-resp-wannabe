@@ -1,8 +1,10 @@
 @media screen and (max-width: 420px) {
     .row{
         width: 100%;
+        margin: 0;
+        padding: 0;
     }
- 
+
     #lezioni .row>.left,
     #lezioni .row>.right,
     #steps .row>.left,
@@ -21,7 +23,7 @@
     }
 
     html{
-        font-size: 12px;
+        font-size: 14px;
     }
 
     #lezioni, #why{
