@@ -43,4 +43,13 @@
     #lezioni, #why{
         background-color: #F2F2CD;
     }
+
+    #why .row>.first hr,
+    #why .row>.second hr,
+    #why .row>.third hr{
+       background-color: #757575;
+       width: 90%;
+       margin: 0 auto;
+    }
+
 }
